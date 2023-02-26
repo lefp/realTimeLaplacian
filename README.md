@@ -27,4 +27,4 @@ video0
 video1
 video2
 ```
-Then you can modify the `VideoCapture` with each number line until you get the one you want.
+Then you can modify the `VideoCapture` with line each number until you get the one you want.
