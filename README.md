@@ -17,7 +17,7 @@ use `q` to quit once the program is running.
 
 ## Using a different camera
 
-If OpenCV fails to find the camera or you want it to use a different camera, and you're on Linux, try
+If it fails to find the camera or you want it to use a different camera, and you're on Linux, try
 ```
 ls /dev | grep video
 ```
